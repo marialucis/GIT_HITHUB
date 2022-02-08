@@ -4,7 +4,10 @@
     * Criando repo
     * Criando branch
     * Criando repo remoto
-
-
+    * Criando gitignore
+    * Gerando tag/release de versão
     
+
+
+
     
