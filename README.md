@@ -6,7 +6,7 @@
     * Criando repo remoto
     * Criando gitignore
     * Gerando tag/release de versão
-    * Testando envio para repo
+   
     
 
 
